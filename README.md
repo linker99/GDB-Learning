@@ -4,6 +4,8 @@ GDB 学习，及根据大牛Liam Huang的文章，模仿的一个GDB调试的dem
 http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html    
 网上也有中文翻译好的，还有个比较好的视频：  
 Give me 15 minutes and I’ll change your view of GDB(视频在youtube上，方便大家我下载下来了：在video目录下)   
+GDB入门教程 https://vimjc.com/categories/gdb/
+
 
 /*******分割线，好好看过上面的文章和视频再看下面*********/  
 
